@@ -3535,7 +3535,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #1e1a23;
+		background: #262626;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3776,10 +3776,10 @@
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #46B5D6, #FFA66F);
-				background-image: -webkit-linear-gradient(to right, #46B5D6, #FFA66F);
-				background-image: -ms-linear-gradient(to right, #46B5D6, #FFA66F);
-				background-image: linear-gradient(to right, #46B5D6, #FFA66F);
+				background-image: -moz-linear-gradient(to right, #46B5D6, #ffa172);
+				background-image: -webkit-linear-gradient(to right, #46B5D6, #ffa172);
+				background-image: -ms-linear-gradient(to right, #46B5D6, #ffa172);
+				background-image: linear-gradient(to right, #46B5D6, #ffa172);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3868,7 +3868,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #FFA66F;
+							background-color: #ffa172;
 						}
 
 		}
