@@ -2,8 +2,7 @@
 
 /*
 	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Customized through jQuery
 */
 
 /* Reset */
@@ -3250,7 +3249,7 @@
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #2a2c2d
 		}
 
 		.wrapper.style1 {
@@ -3262,15 +3261,15 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #202021;
+			background-color: #b7c3ce;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #302f2f;
+			background-color: #98a3ad
 		}
 
 		.wrapper.style3 {
-			background-color: #6d6a6a;
+			background-color: #f7c396
 		}
 
 		.wrapper.style3-alt {
