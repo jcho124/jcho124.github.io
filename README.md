@@ -1,2 +1,2 @@
 # Personal website
-website used as portfolio (www.jackiewcho.com)
+website used as portfolio (http://jackiewcho.com/)
