@@ -3765,14 +3765,14 @@
 			}
 
 			#sidebar nav a:before {
-				background: #46B5D6;
+				background: #777696;
 			}
 
 			#sidebar nav a:after {
 				background-image: -moz-linear-gradient(to right, #46B5D6, #ffa172);
 				background-image: -webkit-linear-gradient(to right, #46B5D6, #ffa172);
 				background-image: -ms-linear-gradient(to right, #46B5D6, #ffa172);
-				background-image: linear-gradient(to right, #46B5D6, #ffa172);
+				background-image: linear-gradient(to right, #777696, #ffa172);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
